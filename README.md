@@ -181,4 +181,5 @@ plt.show()
 
 
 ## Result
+
 The program successfully loads a list of sample product reviews, applies TextBlob sentiment polarity scoring to classify each review's emotional tone, prints summary counts, and visualizes the overall distribution with a Matplotlib bar chart.
